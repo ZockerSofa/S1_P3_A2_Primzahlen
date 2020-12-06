@@ -3,4 +3,4 @@ project(S1_P3_A2_Primzahlen C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(S1_P3_A2_Primzahlen main.c header.h)
+add_executable(S1_P3_A2_Primzahlen main.c header.h ist_prim.c)
